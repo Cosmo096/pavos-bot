@@ -1,0 +1,5 @@
+easyocr
+numpy
+opencv-python
+pillow
+python-dotenv
